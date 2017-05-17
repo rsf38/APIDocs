@@ -2,8 +2,9 @@
 bundle.js
 npm-debug.log
 .DS_Store
+/public/styles.css
+/src/settings.js
 
 # IntelliJ
 *.iml
 /.idea
-/public/styles.css
